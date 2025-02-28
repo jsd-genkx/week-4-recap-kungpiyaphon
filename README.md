@@ -50,7 +50,7 @@ Answer by writing in Git message format for example: "feat(sql): a query languag
 Submit by doing 3 different commits for each topics
 
 - SQL ✅
-- HTML 
+- HTML ✅
 - CSS 
 
 Example:
@@ -61,6 +61,6 @@ feat(css): styling layouts using Flexbox and Grid for responsive design
 
 Your Summary in Git commit message format:
 
-- ?
-- ?
+- feat(sql): learn about database design
+- feat(html): HTML is the structural design of the web.
 - ?
