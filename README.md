@@ -63,4 +63,4 @@ Your Summary in Git commit message format:
 
 - feat(sql): learn about database design
 - feat(html): HTML is the structural design of the web.
-- CSS is a way to make web pages more user-friendly.
+- feat(css): CSS is a way to make web pages more user-friendly.
